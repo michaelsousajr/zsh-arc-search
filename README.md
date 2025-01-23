@@ -19,7 +19,7 @@ A Zsh plugin that enables quick searches using Arc browser directly from your te
 1. Clone this repository into your Oh My Zsh custom plugins directory:
 
    ```bash
-   git clone https://github.com/michaelsousajr/arc-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/arc-search
+   git clone https://github.com/michaelsousajr/zsh-arc-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/arc-search
    ```
 
 2. Add the plugin to your `.zshrc`:
