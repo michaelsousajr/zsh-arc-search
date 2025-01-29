@@ -34,6 +34,10 @@ A Zsh plugin that enables quick searches using Arc browser directly from your te
    source ~/.zshrc
    ```
 
+   ```
+   Note: The name of this repo differs from folder name in zsh customs folder, if you decide to manully install you must change the folder name to "arc-search".
+   ```
+
 ## Usage
 
 ```bash
